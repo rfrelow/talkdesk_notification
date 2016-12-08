@@ -1,7 +1,7 @@
 import subprocess
 import os
 import time
-
+#dario edit
 last_waiting_time = "00:00"
 current_waiting_time = "00:00"
 triggered = 0
